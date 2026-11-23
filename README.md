@@ -86,6 +86,7 @@ Explore leading open-source repositories powering AST parsing, Code Property Gra
 | **[swc-project/swc](https://github.com/swc-project/swc)** | [![GitHub_Stars](https://img.shields.io/github/stars/swc-project/swc?style=social&color=white)](https://github.com/swc-project/swc/stargazers) | Rust | Super-fast 20x–70x Rust-based JavaScript/TypeScript compiler providing lightning-fast AST construction, code analysis, and transformation primitives. |
 | **[yamadashy/repomix](https://github.com/yamadashy/repomix)** | [![GitHub_Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=social&color=white)](https://github.com/yamadashy/repomix/stargazers) | TypeScript | Powerful repository context packager that consolidates codebases, directory file trees, and source metadata into structured formats optimized for LLM code understanding. |
 | **[tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)** | [![GitHub_Stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers) | C / Rust | Foundational incremental parsing library providing concrete syntax trees with zero latency; powers modern IDE syntax highlighting, code search, and symbol graph extraction. |
+| **[facebook/flow](https://github.com/facebook/flow)** | [![GitHub_Stars](https://img.shields.io/github/stars/facebook/flow?style=social&color=white)](https://github.com/facebook/flow/stargazers) | OCaml / Rust | Precise static type checker for JavaScript designed to catch common errors, enforce sound type contracts, and optimize large monorepo developer tooling. |
 | **[semgrep/semgrep](https://github.com/semgrep/semgrep)** | [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers) | OCaml / Python | Fast, lightweight static analysis engine for finding bugs, detecting CVEs, and enforcing security policies using intuitive pattern queries that look like actual source code. |
 | **[ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)** | [![GitHub_Stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers) | Rust | Lightning-fast CLI tool and library for code structural search, linting, and programmatic code rewriting based on abstract syntax trees across dozens of languages. |
 | **[CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)** | [![GitHub_Stars](https://img.shields.io/github/stars/CoatiSoftware/Sourcetrail?style=social&color=white)](https://github.com/CoatiSoftware/Sourcetrail/stargazers) | C++ | Iconic cross-platform interactive source code explorer that merges interactive dependency graphs, concise code inspection views, and fast symbol lookup for C, C++, Java, and Python. |
@@ -93,12 +94,16 @@ Explore leading open-source repositories powering AST parsing, Code Property Gra
 | **[microsoft/pyright](https://github.com/microsoft/pyright)** | [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/pyright?style=social&color=white)](https://github.com/microsoft/pyright/stargazers) | TypeScript | Blazing-fast static type checker and type-inference engine for Python, powering Pylance and deep symbol resolution in VS Code. |
 | **[SonarSource/sonarqube](https://github.com/SonarSource/sonarqube)** | [![GitHub_Stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers) | Java | Industry-standard self-hosted open-source continuous inspection platform for automated static analysis, security vulnerabilities, technical debt measurement, and coverage tracking. |
 | **[github/codeql](https://github.com/github/codeql)** | [![GitHub_Stars](https://img.shields.io/github/stars/github/codeql?style=social&color=white)](https://github.com/github/codeql/stargazers) | QL / C++ | Industry-standard open-source queries and libraries for semantic code analysis that treats source code as relational database records to track data taint flows and zero-days. |
+| **[checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)** | [![GitHub_Stars](https://img.shields.io/github/stars/checkstyle/checkstyle?style=social&color=white)](https://github.com/checkstyle/checkstyle/stargazers) | Java | Static code analysis tool checking Java source code against coding standards and architectural conventions, highly configurable via AST traversal. |
 | **[sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser)** | [![GitHub_Stars](https://img.shields.io/github/stars/sverweij/dependency-cruiser?style=social&color=white)](https://github.com/sverweij/dependency-cruiser/stargazers) | JavaScript | Validates and visualizes JavaScript, TypeScript, and ESM dependencies; enforces architectural boundary rules and exports graphs into SVG, DOT, and Mermaid formats. |
+| **[google/error-prone](https://github.com/google/error-prone)** | [![GitHub_Stars](https://img.shields.io/github/stars/google/error-prone?style=social&color=white)](https://github.com/google/error-prone/stargazers) | Java | Static analysis tool for Java that hooks directly into the javac compiler to catch common programming bugs and design flaws at compile time. |
 | **[facebook/pyre-check](https://github.com/facebook/pyre-check)** | [![GitHub_Stars](https://img.shields.io/github/stars/facebook/pyre-check?style=social&color=white)](https://github.com/facebook/pyre-check/stargazers) | OCaml / Python | Performant type checker and static security analysis tool for Python with full taint-tracking capabilities (Pysa) engineered for giant codebases. |
+| **[pmd/pmd](https://github.com/pmd/pmd)** | [![GitHub_Stars](https://img.shields.io/github/stars/pmd/pmd?style=social&color=white)](https://github.com/pmd/pmd/stargazers) | Java | Extensible cross-language static code analyzer that scans source code for bugs, duplicate code, suboptimal logic, and cyclomatic complexity. |
 | **[oracle/opengrok](https://github.com/oracle/opengrok)** | [![GitHub_Stars](https://img.shields.io/github/stars/oracle/opengrok?style=social&color=white)](https://github.com/oracle/opengrok/stargazers) | Java | Fast and usable source code search and cross-reference engine designed to parse, index, and navigate massive enterprise code repositories. |
 | **[MaskRay/ccls](https://github.com/MaskRay/ccls)** | [![GitHub_Stars](https://img.shields.io/github/stars/MaskRay/ccls?style=social&color=white)](https://github.com/MaskRay/ccls/stargazers) | C++ | C/C++/Objective-C language server providing lightning-fast cross-references, call hierarchies, inheritance trees, and symbol indexing backed by Clang. |
 | **[TNG/ArchUnit](https://github.com/TNG/ArchUnit)** | [![GitHub_Stars](https://img.shields.io/github/stars/TNG/ArchUnit?style=social&color=white)](https://github.com/TNG/ArchUnit/stargazers) | Java | Extensible Java architecture testing library that validates layer dependencies, cyclic references, package isolation, and class design rules directly as JUnit tests. |
-| **[joernio/joern](https://github.com/joernio/joern)** | [![GitHub_Stars](https://img.shields.io/github/stars/joernio/joern?style=social&color=white)](https://github.com/joernio/joern/stargazers) | Scala | Open-source code analysis platform built on **Code Property Graphs (CPGs)**—merging AST, Control Flow Graphs (CFG), and Program Dependence Graphs (PDG) into a high-performance graph database. |
+| **[joernio/joern](https://github.com/joernio/joern)** | [![GitHub_Stars](https://img.shields.io/github/stars/joernio/joern/stargazers) | Scala | Open-source code analysis platform built on **Code Property Graphs (CPGs)**—merging AST, Control Flow Graphs (CFG), and Program Dependence Graphs (PDG) into a high-performance graph database. |
+| **[clangd/clangd](https://github.com/clangd/clangd)** | [![GitHub_Stars](https://img.shields.io/github/stars/clangd/clangd?style=social&color=white)](https://github.com/clangd/clangd/stargazers) | C++ | High-performance LLVM-based language server providing deep AST inspection, cross-referencing, semantic highlighting, and code graph indexing for C/C++. |
 | **[google/kythe](https://github.com/google/kythe)** | [![GitHub_Stars](https://img.shields.io/github/stars/google/kythe?style=social&color=white)](https://github.com/google/kythe/stargazers) | C++ / Go | Pluggable, language-agnostic ecosystem developed by Google for building tools that analyze and index source code into an interoperable semantic graph. |
 | **[thebjorn/pydeps](https://github.com/thebjorn/pydeps)** | [![GitHub_Stars](https://img.shields.io/github/stars/thebjorn/pydeps?style=social&color=white)](https://github.com/thebjorn/pydeps/stargazers) | Python | Visualizes Python module dependency graphs, detects internal cycles, and outputs visual graphs to highlight structural architecture. |
 | **[sourcegraph/zoekt](https://github.com/sourcegraph/zoekt)** | [![GitHub_Stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers) | Go | Blazing-fast trigram-based regex code search engine (developed by Google & Sourcegraph) optimized for large monorepos and cross-repository search indexes. |
@@ -183,222 +188,3 @@ If this curated ecosystem helps your software architecture, platform engineering
 <div align="center">
   <sub>Engineered with care for software architects, AppSec teams, platform engineers, and AI coding agent developers.</sub>
 </div>
-# Awesome-Code-Knowledge-Graph-Static-Analysis
-
-# Awesome Cloud Storage & Decentralized Drive Sync 🌟
-
-
-
-> **Top Cloud Storage Decentralized Drive Sync (Opensource)**  
-
-> A curated list of the best cloud storage, file synchronization, and decentralized drive solutions — with a strong focus on **open-source** and self-hostable alternatives.  
-
-> 🌟 **Star if you like it!** 🌟
-
-
-
-Cloud storage and file sync services keep documents, photos, and data accessible across devices. Commercial platforms such as Dropbox, Google Drive, OneDrive, MEGA, and Tresorit dominate the hosted space, while a mature open-source ecosystem offers full data ownership through self-hosted servers (Nextcloud, Seafile), peer-to-peer sync (Syncthing), and decentralized networks (IPFS, Sia, Storj-related projects).
-
-
-
-This list prioritizes **open-source GitHub projects and self-hostable tools** while keeping SaaS/hosted platforms clearly separated.
-
-
-
-## Table of Contents
-
-
-
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS / Hosted Platforms
-
-
-
-These are popular commercial cloud storage and encrypted drive services (closed-source / hosted):
-
-
-
-- **[Dropbox](https://www.dropbox.com/)** — Classic file sync and sharing platform with strong collaboration features.
-
-- **[Google Drive](https://drive.google.com/)** — Integrated cloud storage tightly coupled with Google Workspace.
-
-- **[OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)** — Microsoft’s cloud storage, deeply integrated with Windows and Microsoft 365.
-
-- **[Box](https://www.box.com/)** — Enterprise-focused content management and collaboration platform.
-
-- **[pCloud](https://www.pcloud.com/)** — European cloud storage with client-side encryption options and lifetime plans.
-
-- **[MEGA](https://mega.nz/)** — Privacy-oriented cloud storage with end-to-end encryption and generous free tiers.
-
-- **[Sync.com](https://www.sync.com/)** — Canadian zero-knowledge encrypted cloud storage.
-
-- **[Icedrive](https://icedrive.net/)** — Modern cloud storage with strong encryption and competitive pricing.
-
-- **[Tresorit](https://tresorit.com/)** — High-security end-to-end encrypted cloud storage aimed at businesses and privacy-conscious users.
-
-- **[Nextcloud Hub](https://nextcloud.com/)** — Hosted/managed offering of the popular open-source platform (commercial support available).
-
-
-
-## Open-Source GitHub Projects
-
-
-
-Open-source alternatives and self-hostable tools for file synchronization, personal clouds, and decentralized storage. These give you full control over your data.
-
-
-
-### Self-Hosted Personal Cloud & File Sync
-
-
-
-- **[nextcloud/server](https://github.com/nextcloud/server)** (Nextcloud)  
-
-  The leading open-source personal cloud platform. File sync & share, calendar, contacts, office suites (Collabora/OnlyOffice), Talk, and a large app ecosystem. Closest full-featured alternative to Google Drive / Dropbox. AGPL-3.0.
-
-
-
-- **[haiwen/seafile](https://github.com/haiwen/seafile)** (Seafile)  
-
-  High-performance open-source file sync and share platform. Excellent delta sync, library-based organization, and strong reliability with large numbers of files. Community Edition is fully open-source.
-
-
-
-- **[owncloud/core](https://github.com/owncloud/core)** (ownCloud)  
-
-  Mature open-source file sync and collaboration platform. Focus on enterprise features, sharing, and integration. AGPL.
-
-
-
-- **[pydio/cells](https://github.com/pydio/cells)** (Pydio Cells)  
-
-  Modern open-source content collaboration platform with strong sharing and external collaboration capabilities.
-
-
-
-### Peer-to-Peer & Lightweight Sync
-
-
-
-- **[syncthing/syncthing](https://github.com/syncthing/syncthing)**  
-
-  Continuous peer-to-peer file synchronization. No central server required — devices sync directly with each other. Extremely lightweight, private, and reliable. MPL-2.0. One of the most popular open-source sync tools.
-
-
-
-- **rclone**  
-
-  Command-line program to manage files on cloud storage. Supports dozens of providers (including S3-compatible, Google Drive, Dropbox, etc.) and can be used for backups, mounts, and synchronization.
-
-
-
-### Decentralized & Distributed Storage
-
-
-
-- **IPFS (InterPlanetary File System)** — [ipfs/kubo](https://github.com/ipfs/kubo) and related projects  
-
-  Content-addressed, peer-to-peer distributed file system. Foundation for many decentralized storage solutions.
-
-
-
-- **Sia / SiaFoundation projects**  
-
-  Decentralized cloud storage network with open-source host and renter software. Files are encrypted, erasure-coded, and distributed across hosts.
-
-
-
-- **Storj-related open-source components and connectors**  
-
-  Decentralized object storage with S3-compatible APIs and community tools for integration with IPFS and other systems.
-
-
-
-- **Filecoin ecosystem tools**  
-
-  Incentivized decentralized storage layer often used together with IPFS for persistent, verifiable storage.
-
-
-
-### Other Notable Open-Source Projects
-
-
-
-- **[spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)**  
-
-  Open-source cross-platform file explorer powered by a virtual distributed filesystem written in Rust. Aims to unify local and remote storage in one interface.
-
-
-
-- **[spacesdrive/twiligent](https://github.com/spacesdrive/twiligent)**  
-
-  Self-hosted analytics and publishing dashboard (YouTube + Instagram focus). Included as referenced; demonstrates privacy-first, locally controlled data tools in a related domain.
-
-
-
-- Additional tools such as SFTPGo, SeaweedFS, MinIO (S3-compatible object storage), and various WebDAV/SFTP servers that complement personal cloud setups.
-
-
-
-> **Tip**: For a full Google Drive / Dropbox-style experience self-host **Nextcloud**. For maximum sync speed and reliability with large libraries try **Seafile**. For pure device-to-device sync with zero central server use **Syncthing**. Decentralized options (IPFS + Filecoin/Sia/Storj) suit censorship resistance and long-term archival use cases.
-
-
-
-## How to Contribute
-
-
-
-Contributions are welcome and encouraged!
-
-
-
-1. Fork the repository
-
-2. Add a new tool under the appropriate section (keep SaaS and Open-Source strictly separate)
-
-3. Use the same format: **Name** — short description + key features + license/link
-
-4. Prefer actively maintained projects with clear documentation, security track records, and preferably cross-platform clients
-
-5. Submit a Pull Request
-
-
-
-Please keep descriptions neutral and factual. Open-source and self-hostable projects are the primary focus of this list. Clearly note any enterprise editions or dual-licensing.
-
-
-
-## Disclaimer
-
-
-
-This is a community-curated list for informational and educational purposes only.  
-
-Inclusion does not constitute an endorsement.  
-
-
-
-Self-hosting means you are responsible for backups, security updates, encryption key management, and availability. Decentralized networks involve additional complexity (tokens, hosts, retrieval). Always review licenses, threat models, and operational requirements before migrating critical data.
-
-
-
-Commercial services offer convenience and support at the cost of trusting a third party with your files. Choose according to your privacy needs, technical ability, and budget.
-
-
-
----
-
-
-
-**Made with ❤️ for the open-source privacy and self-hosting community**  
-
-If this list helped you, please ⭐ the repo!
