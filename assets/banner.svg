@@ -115,7 +115,7 @@
     <g transform="translate(425, 72)">
       <rect x="0" y="0" width="350" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
       <circle cx="15" cy="14" r="5" fill="#10b981" />
-      <text x="32" y="18" fill="#94a3b8" font-size="11.5" class="sub-text" font-weight="600" letter-spacing="1">CURATED DEVELOPER DIRECTORY &bull; 2026</text>
+      <text x="32" y="18" fill="#94a3b8" font-size="11.5" class="sub-text" font-weight="600" letter-spacing="1">CURATED DEVELOPER DIRECTORY &#8226; 2026</text>
     </g>
 
     <!-- Main Title with Gradient Glow -->
@@ -128,7 +128,7 @@
 
     <!-- High Impact Tagline -->
     <text x="600" y="242" text-anchor="middle" fill="#94a3b8" font-size="15" class="sub-text" font-weight="400">
-      Semantic Code Graphs &bull; AST/CPG Call-Graph Indexing &bull; Code Search &bull; SAST &amp; Architecture Linting
+      Semantic Code Graphs &#8226; AST/CPG Call-Graph Indexing &#8226; Code Search &#8226; SAST &amp; Architecture Linting
     </text>
 
     <!-- Category Feature Pills Bar -->
