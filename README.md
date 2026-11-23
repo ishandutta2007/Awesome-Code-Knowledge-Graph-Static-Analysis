@@ -183,3 +183,5 @@ If this curated ecosystem helps your software architecture, platform engineering
 <div align="center">
   <sub>Engineered with care for software architects, AppSec teams, platform engineers, and AI coding agent developers.</sub>
 </div>
+# Awesome-Code-Knowledge-Graph-Static-Analysis
+
