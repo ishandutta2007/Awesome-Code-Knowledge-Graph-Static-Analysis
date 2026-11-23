@@ -77,7 +77,7 @@ The following SaaS and hosted software intelligence platforms provide deep repos
 
 Explore leading open-source repositories powering AST parsing, Code Property Graphs (CPGs), semantic code search, architectural linting, and LLM codebase context packagers.
 
-> *Sorted in descending order by GitHub Stars_Count.*
+> *Sorted in descending order by GitHub_Stars_Count.*
 
 | Repository | GitHub_Stars | Primary Language | Description |
 | :--- | :--- | :--- | :--- |
@@ -182,7 +182,7 @@ If this curated ecosystem helps your software architecture, platform engineering
 ## ⚖️ Disclaimer
 
 - This is an independent, community-curated list. Product names, logos, and trademarks belong to their respective owners.
-- Public GitHub Stars_Counts, pricing figures, and corporate metrics are sampled and updated periodically. Check official project documentation for active licensing requirements and enterprise SLA specifications.
+- Public GitHub_Stars_Counts, pricing figures, and corporate metrics are sampled and updated periodically. Check official project documentation for active licensing requirements and enterprise SLA specifications.
 - Indexing large-scale monorepos into deep Code Property Graphs (`Joern`, `CodeQL`) requires adequate RAM and disk IOPS during the initial compilation and indexing pass.
 
 <div align="center">
